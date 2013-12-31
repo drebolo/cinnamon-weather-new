@@ -1,0 +1,311 @@
+# Turkish translation for gnome-shell-extension-weather
+# Traductions françaises du paquet gnome-shell-extension-weather.
+# Copyright (C) 2011
+# This file is distributed under the same license as the gnome-shell-extension-weather package.
+# Simon Claessens <gagalago@gmail.com>, 2011.
+# ecyrbe <ecyrbe@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 3.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-27 16:14-0500\n"
+"PO-Revision-Date: 2012-11-12 01:51+0200\n"
+"Last-Translator: f <fatihmete@live.com>\n"
+"Language-Team: Turkish <fatihmete@live.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: applet.js:209
+msgid "..."
+msgstr "..."
+
+#: applet.js:210
+msgid "Click to open"
+msgstr ""
+
+#: applet.js:249
+msgid "Settings"
+msgstr ""
+
+#: applet.js:443
+msgid "Sunrise"
+msgstr "Gün Doğumu"
+
+#: applet.js:444
+msgid "Sunset"
+msgstr "Gün Batımı"
+
+#: applet.js:449
+msgid "Today"
+msgstr "Bugün"
+
+#: applet.js:449
+msgid "Tomorrow"
+msgstr "Yarın"
+
+#: applet.js:493
+msgid "Loading current weather ..."
+msgstr "Geçerli hava durumu yükleniyor..."
+
+#: applet.js:494
+msgid "Loading future weather ..."
+msgstr "Gelecek hava durumu bilgisi yükleniyor..."
+
+#: applet.js:516
+msgid "Loading ..."
+msgstr "Yükleniyor ..."
+
+#: applet.js:522
+msgid "Please wait"
+msgstr "Lütfen bekleyiniz"
+
+#: applet.js:580
+msgid "Temperature:"
+msgstr "Sıcaklık :"
+
+#: applet.js:582
+msgid "Humidity:"
+msgstr "Nem :"
+
+#: applet.js:584
+msgid "Pressure:"
+msgstr "Basınç :"
+
+#: applet.js:586
+msgid "Wind:"
+msgstr "Rüzgar :"
+
+#: applet.js:788
+msgid "Tornado"
+msgstr "Hortum"
+
+#: applet.js:790
+msgid "Tropical storm"
+msgstr "Tropik Fırtına"
+
+#: applet.js:792
+msgid "Hurricane"
+msgstr "Kasırga"
+
+#: applet.js:794
+msgid "Severe thunderstorms"
+msgstr "Şiddetli Gökgürültülü"
+
+#: applet.js:796
+msgid "Thunderstorms"
+msgstr "Gök Gürültülü"
+
+#: applet.js:798
+msgid "Mixed rain and snow"
+msgstr "Karla karışık yağmur"
+
+#: applet.js:800
+msgid "Mixed rain and sleet"
+msgstr "Sulusepken Yağmur"
+
+#: applet.js:802
+msgid "Mixed snow and sleet"
+msgstr "Suluspken kar"
+
+#: applet.js:804
+msgid "Freezing drizzle"
+msgstr "Donduran çiseleme"
+
+#: applet.js:806
+msgid "Drizzle"
+msgstr "Çişeleme"
+
+#: applet.js:808
+msgid "Freezing rain"
+msgstr "Donduran Yağmur"
+
+#: applet.js:810 applet.js:812
+msgid "Showers"
+msgstr "Kısa süreli yağmur"
+
+#: applet.js:814
+msgid "Snow flurries"
+msgstr "Neige"
+
+#: applet.js:816
+msgid "Light snow showers"
+msgstr "Neige"
+
+#: applet.js:818
+msgid "Blowing snow"
+msgstr "Kar Tipisi"
+
+#: applet.js:820
+msgid "Snow"
+msgstr "Kar"
+
+#: applet.js:822
+msgid "Hail"
+msgstr "Dolu"
+
+#: applet.js:824
+msgid "Sleet"
+msgstr "Sulusepken"
+
+#: applet.js:826
+msgid "Dust"
+msgstr "Tozlu"
+
+#: applet.js:828
+msgid "Foggy"
+msgstr "Sisli"
+
+#: applet.js:830
+msgid "Haze"
+msgstr "Puslu"
+
+#: applet.js:832
+msgid "Smoky"
+msgstr "Dumanlı"
+
+#: applet.js:834
+msgid "Blustery"
+msgstr "Fırtınalı"
+
+#: applet.js:836
+msgid "Windy"
+msgstr "Rüzgarlı"
+
+#: applet.js:838
+msgid "Cold"
+msgstr "Soğuk"
+
+#: applet.js:840
+msgid "Cloudy"
+msgstr "Bulutlu"
+
+#: applet.js:843
+msgid "Mostly cloudy"
+msgstr "Tamamen bulutlu"
+
+#: applet.js:846 applet.js:872
+msgid "Partly cloudy"
+msgstr "Parçalı bulutlu"
+
+#: applet.js:848
+msgid "Clear"
+msgstr "Temiz"
+
+#: applet.js:850
+msgid "Sunny"
+msgstr "Güneşli"
+
+#: applet.js:853
+msgid "Fair"
+msgstr "Açık"
+
+#: applet.js:855
+msgid "Mixed rain and hail"
+msgstr "Yağmurla karışık dolu"
+
+#: applet.js:857
+msgid "Hot"
+msgstr "Sıcak"
+
+#: applet.js:859
+msgid "Isolated thunderstorms"
+msgstr "Orageux"
+
+#: applet.js:862
+msgid "Scattered thunderstorms"
+msgstr "Seyrek Gökgürültüsü"
+
+#: applet.js:864
+msgid "Scattered showers"
+msgstr "Seyrek yağış"
+
+#: applet.js:866 applet.js:870
+msgid "Heavy snow"
+msgstr "Ağır kar"
+
+#: applet.js:868
+msgid "Scattered snow showers"
+msgstr "Seyrek kar sağanağı"
+
+#: applet.js:874
+msgid "Thundershowers"
+msgstr "Şimşekli ve yağmurlu fırtına"
+
+#: applet.js:876
+msgid "Snow showers"
+msgstr "Sağanak kar"
+
+#: applet.js:878
+msgid "Isolated thundershowers"
+msgstr "Orageux"
+
+#: applet.js:881
+msgid "Not available"
+msgstr "Mevcut değil"
+
+#: applet.js:886
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: applet.js:886
+msgid "Tuesday"
+msgstr "Salı"
+
+#: applet.js:886
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: applet.js:886
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: applet.js:886
+msgid "Friday"
+msgstr "Cuma"
+
+#: applet.js:886
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: applet.js:886
+msgid "Sunday"
+msgstr "Pazar"
+
+#: applet.js:891
+msgid "N"
+msgstr "K"
+
+#: applet.js:891
+msgid "NE"
+msgstr "KD"
+
+#: applet.js:891
+msgid "E"
+msgstr "D"
+
+#: applet.js:891
+msgid "SE"
+msgstr "GD"
+
+#: applet.js:891
+msgid "S"
+msgstr "G"
+
+#: applet.js:891
+msgid "SW"
+msgstr "GB"
+
+#: applet.js:891
+msgid "W"
+msgstr "B"
+
+#: applet.js:891
+msgid "NW"
+msgstr "KB"
+
+#~ msgid "Schema \"%s\" not found."
+#~ msgstr "\"%s\" şeması bulunamadı."

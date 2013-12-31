@@ -1,0 +1,367 @@
+# Vietnamese translation for gnome-shell-extension-weather
+# Copyright (C) 2011
+# This file is distributed under the same license as the gnome-shell-extension-weather package.
+# Ngô Trung <ndtrung4419@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-27 16:14-0500\n"
+"PO-Revision-Date: 2012-06-17 17:04+0700\n"
+"Last-Translator: Ngô Trung <ndtrung4419@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: applet.js:209
+msgid "..."
+msgstr "..."
+
+#: applet.js:210
+msgid "Click to open"
+msgstr ""
+
+#: applet.js:249
+#, fuzzy
+msgid "Settings"
+msgstr "Thiết lập thời tiết"
+
+#: applet.js:443
+msgid "Sunrise"
+msgstr "Bình minh"
+
+#: applet.js:444
+msgid "Sunset"
+msgstr "Hoàng hôn"
+
+#: applet.js:449
+msgid "Today"
+msgstr "Hôm nay"
+
+#: applet.js:449
+msgid "Tomorrow"
+msgstr "Ngày mai"
+
+#: applet.js:493
+msgid "Loading current weather ..."
+msgstr "Đang tải dữ liệu thời tiết hiện tại..."
+
+#: applet.js:494
+msgid "Loading future weather ..."
+msgstr "Đang tải dữ liệu dự báo thời tiết..."
+
+#: applet.js:516
+msgid "Loading ..."
+msgstr "Đang tải..."
+
+#: applet.js:522
+msgid "Please wait"
+msgstr "Xin đợi một lát"
+
+#: applet.js:580
+#, fuzzy
+msgid "Temperature:"
+msgstr "Đơn vị đo nhiệt độ:"
+
+#: applet.js:582
+msgid "Humidity:"
+msgstr "Độ ẩm:"
+
+#: applet.js:584
+msgid "Pressure:"
+msgstr "Áp suất:"
+
+#: applet.js:586
+msgid "Wind:"
+msgstr "Gió:"
+
+#: applet.js:788
+msgid "Tornado"
+msgstr "Lốc xoáy"
+
+#: applet.js:790
+msgid "Tropical storm"
+msgstr "Bão nhiệt đới"
+
+#: applet.js:792
+msgid "Hurricane"
+msgstr "Cuồng phong"
+
+#: applet.js:794
+msgid "Severe thunderstorms"
+msgstr "Giông nguy hiểm"
+
+#: applet.js:796
+msgid "Thunderstorms"
+msgstr "Giông"
+
+#: applet.js:798
+msgid "Mixed rain and snow"
+msgstr "Mưa và tuyết"
+
+#: applet.js:800
+msgid "Mixed rain and sleet"
+msgstr "Mưa và mưa tuyết"
+
+#: applet.js:802
+msgid "Mixed snow and sleet"
+msgstr "Tuyết và mưa tuyết"
+
+#: applet.js:804
+msgid "Freezing drizzle"
+msgstr "Mưa phùn rét"
+
+#: applet.js:806
+msgid "Drizzle"
+msgstr "Mưa phùn"
+
+#: applet.js:808
+msgid "Freezing rain"
+msgstr "Mưa rét"
+
+#: applet.js:810 applet.js:812
+msgid "Showers"
+msgstr "Mưa rào"
+
+#: applet.js:814
+msgid "Snow flurries"
+msgstr "Tuyết bất chợt"
+
+#: applet.js:816
+msgid "Light snow showers"
+msgstr "Tuyết rào nhẹ"
+
+#: applet.js:818
+msgid "Blowing snow"
+msgstr "Gió tuyết"
+
+#: applet.js:820
+msgid "Snow"
+msgstr "Tuyết"
+
+#: applet.js:822
+msgid "Hail"
+msgstr "Mưa đá"
+
+#: applet.js:824
+msgid "Sleet"
+msgstr "Mưa tuyết"
+
+#: applet.js:826
+msgid "Dust"
+msgstr "Bụi mù"
+
+#: applet.js:828
+msgid "Foggy"
+msgstr "Sương mù"
+
+#: applet.js:830
+msgid "Haze"
+msgstr "Bụi mù"
+
+#: applet.js:832
+msgid "Smoky"
+msgstr "Khói mù"
+
+#: applet.js:834
+msgid "Blustery"
+msgstr "Gió dữ dội"
+
+#: applet.js:836
+msgid "Windy"
+msgstr "Gió"
+
+#: applet.js:838
+msgid "Cold"
+msgstr "Lạnh"
+
+#: applet.js:840
+msgid "Cloudy"
+msgstr "Mây mù"
+
+#: applet.js:843
+msgid "Mostly cloudy"
+msgstr "Nhiều mây"
+
+#: applet.js:846 applet.js:872
+msgid "Partly cloudy"
+msgstr "Ít mây"
+
+#: applet.js:848
+msgid "Clear"
+msgstr "Trời trong"
+
+#: applet.js:850
+msgid "Sunny"
+msgstr "Nắng"
+
+#: applet.js:853
+msgid "Fair"
+msgstr "Bình thường"
+
+#: applet.js:855
+msgid "Mixed rain and hail"
+msgstr "Mưa và mưa đá"
+
+#: applet.js:857
+msgid "Hot"
+msgstr "Nóng"
+
+#: applet.js:859
+msgid "Isolated thunderstorms"
+msgstr "Giông diện hẹp"
+
+#: applet.js:862
+msgid "Scattered thunderstorms"
+msgstr "Giông rải rác"
+
+#: applet.js:864
+msgid "Scattered showers"
+msgstr "Mưa rào rải rác"
+
+#: applet.js:866 applet.js:870
+msgid "Heavy snow"
+msgstr "Tuyết mạnh"
+
+#: applet.js:868
+msgid "Scattered snow showers"
+msgstr "Mưa tuyết rải rác"
+
+#: applet.js:874
+msgid "Thundershowers"
+msgstr "Mưa rào có sấm"
+
+#: applet.js:876
+msgid "Snow showers"
+msgstr "Mưa tuyết rào"
+
+#: applet.js:878
+msgid "Isolated thundershowers"
+msgstr "Mưa rào rải rác"
+
+#: applet.js:881
+msgid "Not available"
+msgstr "Không có dữ liệu"
+
+#: applet.js:886
+msgid "Monday"
+msgstr "Thứ hai"
+
+#: applet.js:886
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+#: applet.js:886
+msgid "Wednesday"
+msgstr "Thứ tư"
+
+#: applet.js:886
+msgid "Thursday"
+msgstr "Thứ năm"
+
+#: applet.js:886
+msgid "Friday"
+msgstr "Thứ sáu"
+
+#: applet.js:886
+msgid "Saturday"
+msgstr "Thứ bảy"
+
+#: applet.js:886
+msgid "Sunday"
+msgstr "Chủ Nhật"
+
+#: applet.js:891
+msgid "N"
+msgstr "B"
+
+#: applet.js:891
+msgid "NE"
+msgstr "ĐB"
+
+#: applet.js:891
+msgid "E"
+msgstr "Đ"
+
+#: applet.js:891
+msgid "SE"
+msgstr "ĐN"
+
+#: applet.js:891
+msgid "S"
+msgstr "N"
+
+#: applet.js:891
+msgid "SW"
+msgstr "TN"
+
+#: applet.js:891
+msgid "W"
+msgstr "T"
+
+#: applet.js:891
+msgid "NW"
+msgstr "TB"
+
+#~ msgid "Schema \"%s\" not found."
+#~ msgstr "Không tìm thấy schema \"%s\"."
+
+#~ msgid "Reload Weather Information"
+#~ msgstr "Tải lại dữ liệu thời tiết"
+
+#~ msgid "Invalid city"
+#~ msgstr "Không có thành phố này"
+
+#~ msgid "Yesterday"
+#~ msgstr "Hôm qua"
+
+#~ msgid "%s days ago"
+#~ msgstr "%s ngày trước"
+
+#, fuzzy
+#~ msgid "In %s days"
+#~ msgstr "%s ngày trước"
+
+#~ msgid "Feel like:"
+#~ msgstr "Cảm giác ngoài trời:"
+
+#~ msgid "Name of the city"
+#~ msgstr "Tên thành phố"
+
+#~ msgid "Remove %s ?"
+#~ msgstr "Bạn có muốn xóa %s?"
+
+#~ msgid "Wind Speed Unit"
+#~ msgstr "Đơn vị tốc độ gió"
+
+#, fuzzy
+#~ msgid "Pressure Unit"
+#~ msgstr "Áp suất:"
+
+#~ msgid "Position in Panel"
+#~ msgstr "Vị trí trên thanh pa-nen"
+
+#~ msgid "Center"
+#~ msgstr "Ở giữa"
+
+#~ msgid "Right"
+#~ msgstr "Bên phải"
+
+#~ msgid "Left"
+#~ msgstr "Bên trái"
+
+#~ msgid "Translate Conditions"
+#~ msgstr "Dịch tình hình thời tiết"
+
+#~ msgid "Symbolic Icons"
+#~ msgstr "Biểu tượng đơn giản"
+
+#~ msgid "Temperature in Panel"
+#~ msgstr "Hiện nhiệt độ trên pa-nen"
+
+#~ msgid "Conditions in Panel"
+#~ msgstr "Hiện thời tiết trên pa-nen"

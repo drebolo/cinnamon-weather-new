@@ -1,0 +1,409 @@
+# Hungarian translations for Neroth-gnome-shell-extension-weather package.
+# Copyright (C) 2013 THE Neroth-gnome-shell-extension-weather'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Neroth-gnome-shell-extension-weather package.
+# Bojtos PÃ©ter <ptr@ulx.hu>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Neroth-gnome-shell-extension-weather 3696468\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-27 16:14-0500\n"
+"PO-Revision-Date: 2013-01-18 15:07+0100\n"
+"Last-Translator: Bojtos Péter <ptr@ulx.hu>\n"
+"Language-Team: Hungarian\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: applet.js:209
+msgid "..."
+msgstr "..."
+
+#: applet.js:210
+msgid "Click to open"
+msgstr ""
+
+#: applet.js:249
+#, fuzzy
+msgid "Settings"
+msgstr "Meteorológiai beállítások"
+
+#: applet.js:443
+msgid "Sunrise"
+msgstr ""
+
+#: applet.js:444
+msgid "Sunset"
+msgstr ""
+
+#: applet.js:449
+msgid "Today"
+msgstr "Ma"
+
+#: applet.js:449
+msgid "Tomorrow"
+msgstr "Holnap"
+
+#: applet.js:493
+msgid "Loading current weather ..."
+msgstr "Aktuális időjárás betöltése"
+
+#: applet.js:494
+msgid "Loading future weather ..."
+msgstr "Időjárás előrejelzés betöltése ..."
+
+#: applet.js:516
+msgid "Loading ..."
+msgstr "Betöltés ..."
+
+#: applet.js:522
+msgid "Please wait"
+msgstr "Kérem várjon"
+
+#: applet.js:580
+#, fuzzy
+msgid "Temperature:"
+msgstr "Hőmérsékleti egység"
+
+#: applet.js:582
+msgid "Humidity:"
+msgstr "Páratartalom:"
+
+#: applet.js:584
+msgid "Pressure:"
+msgstr "Légnyomás:"
+
+#: applet.js:586
+msgid "Wind:"
+msgstr "Szél:"
+
+#: applet.js:788
+msgid "Tornado"
+msgstr "Tornádó"
+
+#: applet.js:790
+msgid "Tropical storm"
+msgstr "Trópusi vihar"
+
+#: applet.js:792
+msgid "Hurricane"
+msgstr "Hurrikán"
+
+#: applet.js:794
+msgid "Severe thunderstorms"
+msgstr "Erős zivatar"
+
+#: applet.js:796
+msgid "Thunderstorms"
+msgstr "Zivatar"
+
+#: applet.js:798
+msgid "Mixed rain and snow"
+msgstr "Havas eső"
+
+#: applet.js:800
+msgid "Mixed rain and sleet"
+msgstr "Ónos eső"
+
+#: applet.js:802
+msgid "Mixed snow and sleet"
+msgstr "Ónos eső és dara"
+
+#: applet.js:804
+msgid "Freezing drizzle"
+msgstr "Fagyos szitáló eső"
+
+#: applet.js:806
+msgid "Drizzle"
+msgstr "Szitáló eső"
+
+#: applet.js:808
+msgid "Freezing rain"
+msgstr "Fagyos eső"
+
+#: applet.js:810 applet.js:812
+msgid "Showers"
+msgstr "Zápor"
+
+#: applet.js:814
+msgid "Snow flurries"
+msgstr "Hózápor"
+
+#: applet.js:816
+msgid "Light snow showers"
+msgstr "Könnyű havas zápor"
+
+#: applet.js:818
+msgid "Blowing snow"
+msgstr "Hóátfúvás"
+
+#: applet.js:820
+msgid "Snow"
+msgstr "Havazás"
+
+#: applet.js:822
+msgid "Hail"
+msgstr "Zápor"
+
+#: applet.js:824
+msgid "Sleet"
+msgstr "Ónos eső"
+
+#: applet.js:826
+msgid "Dust"
+msgstr "Por"
+
+#: applet.js:828
+msgid "Foggy"
+msgstr "Ködös"
+
+#: applet.js:830
+msgid "Haze"
+msgstr "Pára"
+
+#: applet.js:832
+msgid "Smoky"
+msgstr "Ködös"
+
+#: applet.js:834
+msgid "Blustery"
+msgstr "Enyhén szeles"
+
+#: applet.js:836
+msgid "Windy"
+msgstr "Szeles"
+
+#: applet.js:838
+msgid "Cold"
+msgstr "Fagy"
+
+#: applet.js:840
+msgid "Cloudy"
+msgstr "Felhős"
+
+#: applet.js:843
+msgid "Mostly cloudy"
+msgstr "Jobbára felhős"
+
+#: applet.js:846 applet.js:872
+msgid "Partly cloudy"
+msgstr "Részben felhős"
+
+#: applet.js:848
+msgid "Clear"
+msgstr "Tiszta"
+
+#: applet.js:850
+msgid "Sunny"
+msgstr "Napos"
+
+#: applet.js:853
+msgid "Fair"
+msgstr "Derült"
+
+#: applet.js:855
+msgid "Mixed rain and hail"
+msgstr "Eső és jégeső"
+
+#: applet.js:857
+msgid "Hot"
+msgstr "Forró"
+
+#: applet.js:859
+msgid "Isolated thunderstorms"
+msgstr "Elszigetelt viharok"
+
+#: applet.js:862
+msgid "Scattered thunderstorms"
+msgstr "Szórványos viharok"
+
+#: applet.js:864
+msgid "Scattered showers"
+msgstr "Szórványos zápor"
+
+#: applet.js:866 applet.js:870
+msgid "Heavy snow"
+msgstr "Erős hóesés"
+
+#: applet.js:868
+msgid "Scattered snow showers"
+msgstr "Szórványos hózápor"
+
+#: applet.js:874
+msgid "Thundershowers"
+msgstr "Felhőszakadás"
+
+#: applet.js:876
+msgid "Snow showers"
+msgstr "Hózápor"
+
+#: applet.js:878
+msgid "Isolated thundershowers"
+msgstr "Elszigetelt felhőszakadás"
+
+#: applet.js:881
+msgid "Not available"
+msgstr "Nem elérhető"
+
+#: applet.js:886
+msgid "Monday"
+msgstr "Hétfő"
+
+#: applet.js:886
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: applet.js:886
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: applet.js:886
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: applet.js:886
+msgid "Friday"
+msgstr "Péntek"
+
+#: applet.js:886
+msgid "Saturday"
+msgstr "Szombat"
+
+#: applet.js:886
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: applet.js:891
+msgid "N"
+msgstr "É"
+
+#: applet.js:891
+msgid "NE"
+msgstr "ÉK"
+
+#: applet.js:891
+msgid "E"
+msgstr "K"
+
+#: applet.js:891
+msgid "SE"
+msgstr "DK"
+
+#: applet.js:891
+msgid "S"
+msgstr "D"
+
+#: applet.js:891
+msgid "SW"
+msgstr "DNY"
+
+#: applet.js:891
+msgid "W"
+msgstr "NY"
+
+#: applet.js:891
+msgid "NW"
+msgstr "ÉNY"
+
+#~ msgid "Schema \"%s\" not found."
+#~ msgstr "\"%s\" minta nem található."
+
+#~ msgid "Locations"
+#~ msgstr "Helyszínek"
+
+#~ msgid "Reload Weather Information"
+#~ msgstr "Meteorológiai információ újratöltése"
+
+#~ msgid "Invalid city"
+#~ msgstr "Érvénytelen város"
+
+#~ msgid "Calm"
+#~ msgstr "Szélcsend"
+
+#~ msgid "Light air"
+#~ msgstr "Tiszta levegő"
+
+#~ msgid "Light breeze"
+#~ msgstr "Könnyű szellő"
+
+#~ msgid "Gentle breeze"
+#~ msgstr "Gyenge fuvallat"
+
+#~ msgid "Moderate breeze"
+#~ msgstr "Mérsékelt szellő"
+
+#~ msgid "Fresh breeze"
+#~ msgstr "Frissítő szellő"
+
+#~ msgid "Strong breeze"
+#~ msgstr "Erős szél"
+
+#~ msgid "Moderate gale"
+#~ msgstr "Mérsékelt viharos szél"
+
+#~ msgid "Fresh gale"
+#~ msgstr "Frissítő viharos szél"
+
+#~ msgid "Strong gale"
+#~ msgstr "Erős viharos szél"
+
+#~ msgid "Storm"
+#~ msgstr "Vihar"
+
+#~ msgid "Violent storm"
+#~ msgstr "Heves vihar"
+
+#~ msgid "Yesterday"
+#~ msgstr "Tegnap"
+
+#~ msgid "%s days ago"
+#~ msgstr "%s nappal ezelőtt"
+
+#~ msgid "In %s days"
+#~ msgstr "%s napban"
+
+#, fuzzy
+#~ msgid "Feels like:"
+#~ msgstr "Hőérzet:"
+
+#~ msgid "Wind Speed Unit"
+#~ msgstr "Szélerősség egység"
+
+#~ msgid "Pressure Unit"
+#~ msgstr "Nyomás egysége"
+
+#~ msgid "Position in Panel"
+#~ msgstr "Helyzete a panelen"
+
+#~ msgid "Center"
+#~ msgstr "Középen"
+
+#~ msgid "Right"
+#~ msgstr "Jobb"
+
+#~ msgid "Left"
+#~ msgstr "Bal"
+
+#~ msgid "Wind Direction by Arrows"
+#~ msgstr "Szélirány nyilakkal"
+
+#~ msgid "Translate Conditions"
+#~ msgstr "Fordítási feltételek"
+
+#~ msgid "Symbolic Icons"
+#~ msgstr "Jelképes Ikonok"
+
+#~ msgid "Temperature in Panel"
+#~ msgstr "Hőmérséklet a panelen"
+
+#~ msgid "Conditions in Panel"
+#~ msgstr "Körülmények a panelen"
+
+#~ msgid "Name of the city"
+#~ msgstr "Város neve"
+
+#~ msgid "Remove %s ?"
+#~ msgstr "%s eltávolítása?"

@@ -1,0 +1,355 @@
+# gnome-shell-extension-weather ja.po.
+# Copyright (C) 2011,2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-shell-extension-weather package.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2011,2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell-extension-weather 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-27 16:14-0500\n"
+"PO-Revision-Date: 2012-06-11 12:26+0900\n"
+"Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
+"Language-Team: Japanese <takeshi.aihana@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applet.js:209
+msgid "..."
+msgstr ""
+
+#: applet.js:210
+msgid "Click to open"
+msgstr ""
+
+#: applet.js:249
+#, fuzzy
+msgid "Settings"
+msgstr "設定"
+
+#: applet.js:443
+msgid "Sunrise"
+msgstr ""
+
+#: applet.js:444
+msgid "Sunset"
+msgstr ""
+
+#: applet.js:449
+msgid "Today"
+msgstr ""
+
+#: applet.js:449
+msgid "Tomorrow"
+msgstr ""
+
+#: applet.js:493
+msgid "Loading current weather ..."
+msgstr ""
+
+#: applet.js:494
+msgid "Loading future weather ..."
+msgstr ""
+
+#: applet.js:516
+msgid "Loading ..."
+msgstr ""
+
+#: applet.js:522
+msgid "Please wait"
+msgstr ""
+
+#: applet.js:580
+#, fuzzy
+msgid "Temperature:"
+msgstr "気温の単位"
+
+#: applet.js:582
+msgid "Humidity:"
+msgstr ""
+
+#: applet.js:584
+msgid "Pressure:"
+msgstr ""
+
+#: applet.js:586
+msgid "Wind:"
+msgstr ""
+
+#: applet.js:788
+msgid "Tornado"
+msgstr ""
+
+#: applet.js:790
+msgid "Tropical storm"
+msgstr ""
+
+#: applet.js:792
+msgid "Hurricane"
+msgstr ""
+
+#: applet.js:794
+msgid "Severe thunderstorms"
+msgstr ""
+
+#: applet.js:796
+msgid "Thunderstorms"
+msgstr ""
+
+#: applet.js:798
+msgid "Mixed rain and snow"
+msgstr ""
+
+#: applet.js:800
+msgid "Mixed rain and sleet"
+msgstr ""
+
+#: applet.js:802
+msgid "Mixed snow and sleet"
+msgstr ""
+
+#: applet.js:804
+msgid "Freezing drizzle"
+msgstr ""
+
+#: applet.js:806
+msgid "Drizzle"
+msgstr ""
+
+#: applet.js:808
+msgid "Freezing rain"
+msgstr ""
+
+#: applet.js:810 applet.js:812
+msgid "Showers"
+msgstr ""
+
+#: applet.js:814
+msgid "Snow flurries"
+msgstr ""
+
+#: applet.js:816
+msgid "Light snow showers"
+msgstr ""
+
+#: applet.js:818
+msgid "Blowing snow"
+msgstr ""
+
+#: applet.js:820
+msgid "Snow"
+msgstr ""
+
+#: applet.js:822
+msgid "Hail"
+msgstr ""
+
+#: applet.js:824
+msgid "Sleet"
+msgstr ""
+
+#: applet.js:826
+msgid "Dust"
+msgstr ""
+
+#: applet.js:828
+msgid "Foggy"
+msgstr ""
+
+#: applet.js:830
+msgid "Haze"
+msgstr ""
+
+#: applet.js:832
+msgid "Smoky"
+msgstr ""
+
+#: applet.js:834
+msgid "Blustery"
+msgstr ""
+
+#: applet.js:836
+msgid "Windy"
+msgstr ""
+
+#: applet.js:838
+msgid "Cold"
+msgstr ""
+
+#: applet.js:840
+msgid "Cloudy"
+msgstr ""
+
+#: applet.js:843
+msgid "Mostly cloudy"
+msgstr ""
+
+#: applet.js:846 applet.js:872
+msgid "Partly cloudy"
+msgstr ""
+
+#: applet.js:848
+msgid "Clear"
+msgstr ""
+
+#: applet.js:850
+msgid "Sunny"
+msgstr ""
+
+#: applet.js:853
+msgid "Fair"
+msgstr ""
+
+#: applet.js:855
+msgid "Mixed rain and hail"
+msgstr ""
+
+#: applet.js:857
+msgid "Hot"
+msgstr ""
+
+#: applet.js:859
+msgid "Isolated thunderstorms"
+msgstr ""
+
+#: applet.js:862
+msgid "Scattered thunderstorms"
+msgstr ""
+
+#: applet.js:864
+msgid "Scattered showers"
+msgstr ""
+
+#: applet.js:866 applet.js:870
+msgid "Heavy snow"
+msgstr ""
+
+#: applet.js:868
+msgid "Scattered snow showers"
+msgstr ""
+
+#: applet.js:874
+msgid "Thundershowers"
+msgstr ""
+
+#: applet.js:876
+msgid "Snow showers"
+msgstr ""
+
+#: applet.js:878
+msgid "Isolated thundershowers"
+msgstr ""
+
+#: applet.js:881
+msgid "Not available"
+msgstr ""
+
+#: applet.js:886
+msgid "Monday"
+msgstr ""
+
+#: applet.js:886
+msgid "Tuesday"
+msgstr ""
+
+#: applet.js:886
+msgid "Wednesday"
+msgstr ""
+
+#: applet.js:886
+msgid "Thursday"
+msgstr ""
+
+#: applet.js:886
+msgid "Friday"
+msgstr ""
+
+#: applet.js:886
+msgid "Saturday"
+msgstr ""
+
+#: applet.js:886
+msgid "Sunday"
+msgstr ""
+
+#: applet.js:891
+msgid "N"
+msgstr ""
+
+#: applet.js:891
+msgid "NE"
+msgstr ""
+
+#: applet.js:891
+msgid "E"
+msgstr ""
+
+#: applet.js:891
+msgid "SE"
+msgstr ""
+
+#: applet.js:891
+msgid "S"
+msgstr ""
+
+#: applet.js:891
+msgid "SW"
+msgstr ""
+
+#: applet.js:891
+msgid "W"
+msgstr ""
+
+#: applet.js:891
+msgid "NW"
+msgstr ""
+
+#~ msgid "Schema \"%s\" not found."
+#~ msgstr "次のスキーマが見つかりませんでした: \"%s\""
+
+#~ msgid "Reload Weather Information"
+#~ msgstr "天気予報を更新する"
+
+#~ msgid "Invalid city"
+#~ msgstr "都市の名前が間違っています"
+
+#~ msgid "Yesterday"
+#~ msgstr "昨日"
+
+#~ msgid "%s days ago"
+#~ msgstr "%s日前"
+
+#~ msgid "Name of the city"
+#~ msgstr "都市の名前"
+
+#~ msgid "Remove %s ?"
+#~ msgstr "\"%s\" を削除しますか？"
+
+#~ msgid "Wind Speed Unit"
+#~ msgstr "風速の単位"
+
+#~ msgid "Position in Panel"
+#~ msgstr "配置する場所"
+
+#~ msgid "Center"
+#~ msgstr "中央"
+
+#~ msgid "Right"
+#~ msgstr "右側"
+
+#~ msgid "Left"
+#~ msgstr "左側"
+
+#~ msgid "Translate Conditions"
+#~ msgstr "状態を日本語にする"
+
+#~ msgid "Symbolic Icons"
+#~ msgstr "シンボリック・アイコンにする"
+
+#~ msgid "Temperature in Panel"
+#~ msgstr "パネルに気温を表示する"
+
+#~ msgid "Conditions in Panel"
+#~ msgstr "パネルに状態を表示する"
